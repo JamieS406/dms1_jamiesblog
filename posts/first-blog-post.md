@@ -1,14 +1,14 @@
 ---
-title: This is my first blog post!
-published_at: 2022-11-04T15:00:00.000Z
+title: Post for first session of week 1: scavenger hunt!
+published_at: 2024-03-06
 snippet: This is an excerpt of my first blog post.
 ---
 
-Hello, world!
+Hello!! 😉
 
-# This is h1
+# Testing post for scavenger hunt
 
-## This is h2
+## hopefully this works
 
 _underline_
 
