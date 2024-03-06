@@ -29,10 +29,10 @@ One of the most difficult of the items to find, this elusive coffee joint had ru
 We knew exactly where this one was! I think we passed it quite a few times during orientation, so this was quickly located with a bit of walking.
 
 ![Golden Globe](/w01s1/sh_goldenglobe/webp)
-After the STRONG hint at one item being beyond the rectangular section of the map, we decided to venture out to that dimpled-out section. Originally we speculated the item could be a sculpture above building 8, but we quickly realised it was a towering monument perched on a row of 8s in the field behind the school! Here you can see us trying to get the whole monument into the frame without burning our skin or retinas from the glaring sun.
+After the STRONG hint at one item being beyond the rectangular section of the map, we decided to venture out to that dimpled-out section. Originally we speculated the item could be a sculpture above building 8, but we quickly realised it was a towering monument perched on a row of 8s in the field behind the school!
 
 ![Curtain of roots with winged visitor](/w01s1/sh_roots/webp)
-This was the last one we managed to track down, and with significant effort and some asking around. We kept trying to look for a sculpture with wings, not realising the motif on the ground of the sculpture represented an eagle! Alls well that ends well, I guess.
+This was the last one we managed to track down, and with significant effort and some asking around. We kept trying to look for a sculpture with wings, not realising the motif on the ground of the sculpture represented an eagle! Here you can see us trying to get the sculpture into frame, without burning our skin or retinas from the glaring sun. Alls well that ends well, I guess.
 # Testing post for scavenger hunt
 
 ## hopefully this works
