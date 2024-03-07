@@ -33,6 +33,8 @@ After the STRONG hint at one item being beyond the rectangular section of the ma
 
 ![Curtain of roots with winged visitor](/w01s1/sh_roots/webp)
 This was the last one we managed to track down, and with significant effort and some asking around. We kept trying to look for a sculpture with wings, not realising the motif on the ground of the sculpture represented an eagle! Here you can see us trying to get the sculpture into frame, without burning our skin or retinas from the glaring sun. Alls well that ends well, I guess.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9bpK74QE_UA?si=klz6BsRv18LDKDHf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 # Testing post for scavenger hunt
 
 ## hopefully this works
