@@ -1,5 +1,7 @@
 ---
-title: Second Post, Week 1
+title: Second Post, Week 1. 
 published_at: 2024-03-07
-snippet: Insert Replacement text here
+snippet: I am so confused, nothing is working aaaaa🥲
 ---
+With the help of 2 lovely deskmates I had a collective 3 pieces of footage I could play with. However, since they are so wildly unrelated the first problem was to make them make sense.
+
