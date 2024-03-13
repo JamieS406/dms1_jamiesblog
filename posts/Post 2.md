@@ -44,4 +44,4 @@ Exported it out and the video quality is HORRENDOUS. Time to re-edit...Exported 
 Reflection:
 Overall honestly I don’t think I did an amazing job even though I really did sincerely try… I can see so many areas in the video where I just wish frames will line up better, timing was better, context building was cleaner, etc. And I would have liked to fix the video resolution problem…but it seemed the source files were already varied quality. Even though I managed to get some juxtaposition in the colours and scene, my artistic eye just feels like it isn’t good enough to be something I am proud of, yet. Then again, I am completely fresh to this video editor, so I cannot expect masterpieces immediately. I’m sure I’ll improve with more practice, but for now, an acceptable video.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jlau-EPorjE?si=hA1eBdw4fI7xUdgn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
