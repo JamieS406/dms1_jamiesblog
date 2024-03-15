@@ -37,8 +37,6 @@ This was the last one we managed to track down, and with significant effort and 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9bpK74QE_UA?si=DEO_bLFZ6TiUg3yf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 # Testing post for scavenger hunt
 
-## hopefully this works
-
 _underline_
 
 **bold**
