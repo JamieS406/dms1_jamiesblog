@@ -1,5 +1,5 @@
 ---
-title: Second Post Week 1
+title: Post 2 Week 1
 published_at: 2024-03-07
 snippet: 30 second video experiment
 ---
