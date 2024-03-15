@@ -5,7 +5,7 @@ snippet: 30 second video experiment
 ---
 With the help of 2 lovely deskmates I had a collective 3 pieces of footage I could play with. However, since they are so wildly unrelated the first problem was to make them make sense.
 
-![Inspiriation!](/w01s2/w01s2_s1.png)
+![Attempt at Match Cut](/w01s2/w01s2_s3.png)
 There is a parallel in the scene!! I can possibly try a matchbox cut with this.
 
 ![Inadequacy](/w01s2/w01s2_s2.png)
