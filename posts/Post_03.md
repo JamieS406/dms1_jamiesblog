@@ -15,3 +15,7 @@ The overarching direction guiding the film will be my feelings entering my progr
 Moving forward, I have filmed several scenes displayed in the storyboard above, such as the ants juxtaposed to my scattered shoes. I will continue to try to create better cohesion and connection across my film, as it could feel rather disconnected right now. 
 
 Additional ideas to chew on - I had the idea to intersperse shots of a daisy in between scenes,as daisys represent purity, innocence, new beginnings, joy and cheerfulness. I feel daisies represent me well in my cheerful and joyful personality, yet also help to encapsulate the feeling of new beginnings, as it very much is for me right now. 
+
+Update: Drew the thumbnail sketches of the storyboard
+![Thumbnail draft 2](/w02s1/w02s1_d2.jpeg)
+This follows the general scene progression I'm trying to bring out, which is broken into 3 sections: Excited+joyful, Anxious+lost, Hopeful.
