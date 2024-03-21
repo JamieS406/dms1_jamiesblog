@@ -11,7 +11,7 @@ After going through class yesterday about the effects of sound on thematic empha
 
 Since this sound design concept is relatively new to me, I'm excited to try to incorporate more of what I learnt into my work. There is Materialisation, Diagetic/Non-diagetic sound, Synchresis, Misattribution, volitional/reactive attention.
 
-Combining the narrative I've outlined with the scenes I am envisioning, I reorgainsed and rewrote my storyboard to create greater clarity in focus and significance of each sections' scenes.
+Combining the narrative I've outlined with the scenes I am envisioning, I reorgainsed and rewrote my storyboard to create greater clarity in focus and significance of each sections' scenes. The storyboard numbers are colour coded according to the corresponding sections as the scene progression breakdown above.
 ![storyboard 1](/w03s1/DMSA1_d2v2_1.png)
 ![storyboard 2](/w03s1/DMSA1_d2v2_2.png)
 ![storyboard 3](/w03s1/DMSA1_d2v2_3.png)
