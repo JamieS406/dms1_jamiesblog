@@ -16,7 +16,7 @@ Moving forward, I have filmed several scenes displayed in the storyboard above, 
 
 Additional ideas to chew on - I had the idea to intersperse shots of a daisy in between scenes,as daisys represent purity, innocence, new beginnings, joy and cheerfulness. I feel daisies represent me well in my cheerful and joyful personality, yet also help to encapsulate the feeling of new beginnings, as it very much is for me right now. 
 
-Update: Drew the thumbnail sketches of the storyboard
+Update: Drew the thumbnail sketches of the storyboard (19 March)
 ![Thumbnail draft 2](/w02s1/w02s1_d2.jpeg)
 This follows the general scene progression I'm trying to bring out, which is broken into 3 sections: Excited+joyful, Anxious+lost, Hopeful.
 
