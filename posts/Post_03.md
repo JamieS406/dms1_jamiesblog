@@ -19,7 +19,3 @@ Additional ideas to chew on - I had the idea to intersperse shots of a daisy in 
 Update: Drew the thumbnail sketches of the storyboard (19 March)
 ![Thumbnail draft 2](/w02s1/w02s1_d2.jpeg)
 This follows the general scene progression I'm trying to bring out, which is broken into 3 sections: Excited+joyful, Anxious+lost, Hopeful.
-
-![Finalised scene progression](/w02s1/w02s1_d2w2.jpg)
-I reworked my overarching direction and key ideas, formulating them into scene blocks for ease of pacing. 
-Here is the scene explanation breakdown - progression is as labelled - and what I will be using to create my final assignment 1 video.
