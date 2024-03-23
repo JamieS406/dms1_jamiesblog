@@ -17,3 +17,6 @@ Combining the narrative I've outlined with the scenes I am envisioning, I reorga
 ![storyboard 3](/w03s1/DMSA1_d2v2_3.png)
 ![storyboard 4](/w03s1/DMSA1_d2v2_4.png)
 ![storyboard 5](/w03s1/DMSA1_d2v2_5.png)
+
+I wanted it such that section 1 would have some ambient noise, main part of section 2 will have no ambient sound, and section 3 will have the most ambient sound.
+Doing this shows how in section 1 I am interacting cautiously with my new environment, section 2 I am stressed and worried so the sound almost "numbs out", and section 3 I am embracing the new environment, being more present in situations and learning to more intentionally find wonder in everything I see.
