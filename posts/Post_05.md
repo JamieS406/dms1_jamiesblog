@@ -18,3 +18,5 @@ This film follows the thoughts, emotions and perspectives I have been experienci
 1. It effectively showed the intermingled excitement and apprehension I felt via chromatic harmonies
 2. It had an ABA style thematic progression, meaning it had a starting theme, transitioned in the middle, and went back to the starting theme, but augmented. This would follow the narrative I envisioned (Act 1 positive, Act 2 apprehensive, Act 3 reflective). With the last thematic progression echoing the first, it gave greater nuance to the last scenes as it is familiar, yet layered with greater intentionality. 
 3. It is able bring out many layers of emotion, yet it is simple, sincere and unpretentious in quality.
+
+
