@@ -20,3 +20,6 @@ Combining the narrative I've outlined with the scenes I am envisioning, I reorga
 
 I wanted it such that section 1 would have some ambient noise, main part of section 2 will have no ambient sound, and section 3 will have the most ambient sound.
 Doing this shows how in section 1 I am interacting cautiously with my new environment, section 2 I am stressed and worried so the sound almost "numbs out", and section 3 I am embracing the new environment, being more present in situations and learning to more intentionally find wonder in everything I see.
+
+This brings me to a "key moment of my video: 
+Scene 21-22, the point in which the video angle on the stairs changes in front of the camera and denotes a shift in personal perspective. I plan to sync the re-introduction of ambient sound, ie. introduce a swell in background sound, with the turning of the video angle, to give a greater sense of being present in the moment.
