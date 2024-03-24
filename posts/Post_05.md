@@ -4,8 +4,7 @@ published_at: 2024-03-24
 snippet: Progress on Assignment 1 Video
 ---
 Here is my film for the assignment thus far:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zvlrZUPC3Uk?si=53Zavobot6nLKge-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zvlrZUPC3Uk?si=QrmJsKwwklmHdSOx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 **A Brief Introduction:**
 This film follows the thoughts, emotions and perspectives I have been experiencing coming into the program, and also coming to a new country. There are three main "Acts" that occur in the film. 
 **"Act 1"** portrays my excitement and apprehension with starting a new season of life. Scenes that figuritively show me starting a fresh page, being plugged into the system and experiencing a vibrant fast paced life are shown through L cuts of sound following through, match cuts and cutaway shots. 
