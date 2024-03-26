@@ -23,3 +23,5 @@ Doing this shows how in section 1 I am interacting cautiously with my new enviro
 
 This brings me to a "key moment of my video: 
 Scene 21-22, the point in which the video angle on the stairs changes in front of the camera and denotes a shift in personal perspective. I plan to sync the re-introduction of ambient sound, ie. introduce a swell in background sound, with the turning of the video angle, to give a greater sense of being present in the moment.
+
+
