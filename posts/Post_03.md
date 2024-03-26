@@ -3,6 +3,8 @@ title: Post 3 Week 2
 published_at: 2024-03-15
 snippet: The first draftings of Assignment 1 - Storyboarding and ideations
 ---
+![Defining and opening up brief](/w02s1/w02s1_d0.png)
+Prior to storyboarding, I felt it was essential for me to clearly define the briefs' requirements to myself. I then proceeded to expand on these elements - my personality, interests and feelings entering the program - via 4Ws 1H in a written dialogue with my inner world. Here is a small portion of that initial discussion.
 
 ![The first few ramblings](/w02s1/w02s1_d1.jpeg)
 I'm aware this storyboard is wildly messy, but this helped me get out many ideas from my system.
