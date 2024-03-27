@@ -3,6 +3,9 @@ title: Post 3 Week 2
 published_at: 2024-03-15
 snippet: The first draftings of Assignment 1 - Storyboarding and ideations
 ---
+![Class exercise w02s1](/w02s1/w02s1_classexercise.jpeg)
+This class exercise after the lesson on the importance of storyboards was an interesting one. Storyboarding essentially boils down to breaking down a sequence into its key elements in each scene, so that directions are clear and executable. While drawing this storyboard taken from "The Night of the Living Dead" I realised stripping scenes of detail actually made the focus of the shot clearer to a hypothetical scene coordinator. One thing I would personally add to the template given after "Sound/Time" is "description", as I feel sometimes information on the content of the scene is necessary for context and understanding.
+
 ![Defining and opening up brief](/w02s1/w02s1_d0.png)
 Prior to storyboarding, I felt it was essential for me to clearly define the briefs' requirements to myself. I then proceeded to expand on these elements - my personality, interests and feelings entering the program - via 4Ws 1H in a written dialogue with my inner world. Here is a small portion of that initial discussion.
 
