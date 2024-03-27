@@ -2,11 +2,11 @@
 title: Post 5 Week 3 Session 1
 published_at: 2024-03-24
 snippet: Progress on Assignment 1 Video
+disable_html_sanitization: true
 ---
 Here is my film for the assignment thus far:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zvlrZUPC3Uk?si=QrmJsKwwklmHdSOx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-https://youtu.be/zvlrZUPC3Uk
 
 **A Brief Introduction:**
 This film follows the thoughts, emotions and perspectives I have been experiencing coming into the program, and also coming to a new country. There are three main "Acts" that occur in the film. 

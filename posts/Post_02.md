@@ -2,6 +2,7 @@
 title: Post 2 Week 1 Session 2
 published_at: 2024-03-07
 snippet: 30 second video experiment
+disable_html_sanitization: true
 ---
 With the help of 2 lovely deskmates I had a collective 3 pieces of footage I could play with. However, since they are so wildly unrelated the first problem was to make them make sense.
 
