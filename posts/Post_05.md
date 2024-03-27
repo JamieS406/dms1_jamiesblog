@@ -1,5 +1,5 @@
 ---
-title: Post 5 Week 3
+title: Post 5 Week 3 Session 1
 published_at: 2024-03-24
 snippet: Progress on Assignment 1 Video
 ---

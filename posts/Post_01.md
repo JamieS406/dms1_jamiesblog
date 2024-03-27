@@ -1,5 +1,5 @@
 ---
-title: Post 1 Week 1
+title: Post 1 Week 1 Session 1
 published_at: 2024-03-06
 snippet: This is an excerpt of my first blog post
 ---

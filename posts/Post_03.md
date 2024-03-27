@@ -1,5 +1,5 @@
 ---
-title: Post 3 Week 2
+title: Post 3 Week 2 Session 1
 published_at: 2024-03-15
 snippet: The first draftings of Assignment 1 - Storyboarding and ideations
 ---
