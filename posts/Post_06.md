@@ -5,7 +5,7 @@ snippet: Final touches to Assignment 1
 disable_html_sanitization: true
 ---
 
-I must say I'm rather pleased at the reception for my video, everyone was very kind and helpful with their comments!
+I must say I'm rather pleased at the reception of my video, everyone was very kind and helpful with their comments!
 
 **Parts I did well included:**
 1. Good use of metaphorical storytelling, ability to convey both message and personality
