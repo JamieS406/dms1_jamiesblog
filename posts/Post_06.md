@@ -18,4 +18,4 @@ I must say I'm rather pleased at the reception for my video, everyone was very k
 3. Pacing of cuts for some shots
 
 After taking these into consideration, I decided to make some tweaks in volume for some scenes such as the scribbling sounds in the crumpled paper scene. I also decided to carry over the emotions "boiling under the surface" into the rest of Act 2, by having a low-drone sound that is akin to the boiling water sound effect bubbling below the soundtrack.
-I also tweaked the sound effects in Act 3 to make the J cuts I was trying to execute more obvious. I mostly left the pacing alone, as I felt some scenes required more time to be pondered upon, especially Act 2, since most of Act 1 and Act 3 is quick cutting from one scene to another.
+I also tweaked the sound effects in Act 3 to make the J cuts I was trying to execute more obvious. I mostly left the pacing alone, as I felt some scenes required more time to be pondered upon, especially Act 2, since most of Act 1 and Act 3 is quick cutting from one scene to another. However, I did take the suggestion of my lecturer to tighten up the cuts of some of the scenes to the music.
