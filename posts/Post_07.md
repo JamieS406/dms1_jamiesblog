@@ -35,6 +35,7 @@ I used the "Alignment" tools to centralise my work, and also used "Transform" to
 Overall, this exercise was a fun and stimulating one that I thoroughly enjoyed 😆
 
 **Assignment 2 Brainstorming**
+
 In order to create as many possibilities as I could during this preliminary stage, I explored several concepts and created mindmaps for each of them. I have found this method of ideation useful for me in this exercise, as even if I am unable to think of multiple ideas on 1 concept, I can subconsciously improve an idea for a different concept, adding a "randomised" element to my brainstorming session.
 ![Overview brainstorm assignment 2](/w04s1/w04s1_A2_Brainstorming.jpg)
 This is the overview of all the concepts + ideas I explored. You can see as I brainstormed, I added critiques in orange and black, for the pros and cons respectively of each idea. I added synonyms and/or definitions of each of the concept titles in order to suggest different perspectives of the same concept to myself.
