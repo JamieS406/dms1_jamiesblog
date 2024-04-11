@@ -20,6 +20,7 @@ I mentally started out with definitions of each of the words. Some, like "Increa
 
 ![Lego Order](/w04s1/w04s1_01.png)
 ![Lego Playful](/w04s1/w04s1_02.png)
+
 In order to keep my creative juices flowing, I jumped from one theme to another. If, while playing around with the squares, I found the prototype more suitable if adapted for another theme, I adapted it and transferred it to the other theme. This can be seen from one of the  lego -looking shapes I created for "Order" which in turn informed a “Playful” icon down the line.
 
 ![For the brief!](/w04s1/w04s1_03.png)
