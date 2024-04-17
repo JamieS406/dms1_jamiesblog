@@ -37,7 +37,7 @@ Preferred iconography (2 sets):
 Preferred iconography (2 sets):
 - Specifically 7b: I felt it captured both the different "dimensions" of dream and reality, with their respective time icons. The contrast between the two made by the difference in tonal value adds to the look of 3d space. I do feel it could be improved with more polish, though.
 - set 8: It's clear and needs minimal interpretation of its time duality. the black vs white clocks add to the design language being formed of black being more solid = reality and white being more airy = dream. 
-Some darlings I had to kill: set 9, because I think it isn't clear enough it is dual time. The circle behind looks too arbituary in the design. 11d. as well, because even though it felt smart putting the clocks in the top and bottom parts of the hourglass it simply cannot be iterpreted clearly if it was downsized.
+- Darlings I had to kill: set 9, because I think it isn't clear enough it is dual time. The circle behind looks too arbituary in the design. 11d. as well, because even though it felt smart putting the clocks in the top and bottom parts of the hourglass it simply cannot be iterpreted clearly if it was downsized.
 
 ![Perspective Change](/w04s2/w04s2_06.png)
 *Perspective Change* 
@@ -71,5 +71,23 @@ Preferred iconography:
 
 ![Share Dreamscape](/w04s2/w04s2_10.png)
 *Share Dreamscape* 
-- Description: 
+- Description: This icon is a little different from "Change Dream Layer". This icon is more about linking the ecosystem of one persons' dream to the ecosystem of another persons' dream. It is a more collaborative format in some cases.
+- I drew inspiration from venn diagrams and also links to create these icons.
+Preferred iconography:
+- set 2: I really liked how recognisable the link in the design is, while incorporating the "dream" aspect by making the links cloud-shaped. The lines are again, varying in thickness which adds dimension and personality to the design.
+My one grouse is that I haven't found a way to incorporate the radial design signature into it yet.
 
+![Run Time Limit](/w04s2/w04s2_11.png)
+*Run Time Limit* 
+- Description: Should the traveller need to complete a dream within a set amount of time in the real world, they can set a "run time", like a movie run time, to ensure punctual completion of the dream.
+- I tried to look at the "time" icons and warning icons in a different way to fit these sets of icons.
+Preferred iconography:
+- set 2: I think this design was able to capture the idea of perimeters around time for the dream, with both the break in radial balance on 2a, and the section of the radial design highlighted in 2b.
+- Darlings I had to kill: I found the design for set 3 while experimenting with the falling sand of the hourglass and was so thrilled I could incorporate the exclamation mark so discreetly... but I also realised it could look awkward and too abstract for the average viewer.
+
+![Risk Factor](/w04s2/w04s2_12.png)
+*Risk Factor* 
+- Description: The assumption in this world I have created is that the traveller is lucid dreaming for most of the dreamscape manipulation. However, should the traveller wish to incorporate some unpredictability ie. risk to the dream, this function is able to do so, pulling arbituary things from the subconscious and randomsizing experiences.
+- I took inspiration from warning signs and speed limit icons for these sets of icons.
+Preferred iconography:
+- set 3: I was very thrilled being able to incorporate the radial design signature, the speed limit look and an exclamation mark design in the same icon in a simple and straightforward way. The lines here are also varying in thickness so it remains within the same design language created, and adds interest.
