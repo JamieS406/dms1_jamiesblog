@@ -53,7 +53,7 @@ disable_html_sanitization: true
 *Preferred Colour Composition:*
 - Set 11: This set has adequate contrast on the arrow above, still shows the radial design clearly and does not look garish. I would also consider Set 7's ratio of colours for the gradient.
 
-[Risk Colour](/w05s1/w05s1_04.png)
+![Risk Colour](/w05s1/w05s1_04.png)
 **Risk Factor**
 *Observations:*
 - Need radial design to be dark enough to see from afar, but not overpowering the exclamation mark/pointer
@@ -64,7 +64,7 @@ disable_html_sanitization: true
 - Set 2 or 3: Nothing too crazy in terms of design, these 2 just look the most harmonious in terms of contrast and colour, while also having the gradient accent.
 
 #**Assignment 2 Additional Progress**
-[Time Progress](/w05s1/w05s1_05.png)
+![Time Progress](/w05s1/w05s1_05.png)
 *Time Difference Calibration*
 - I've tried exploring the design for Time Difference some more, and I quite like 3e and 3d, with the dark part being the selected realm (dream/reality) that one is checking.
 - Will check with Thomas in class on thoughts.
