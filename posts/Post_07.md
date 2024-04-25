@@ -4,7 +4,7 @@ published_at: 2024-04-11
 snippet: Class Exercise and Assignment 2 Ideation
 disable_html_sanitization: true
 ---
-**Black Squares Exercise:**
+# **Black Squares Exercise:**
 ![Overview](/w04s1/w04s1_overview_2.png)
 This is an overview of my complete exploration for the black squares activity! I had a lot of fun being challenged by the 4 black square limitation. Really brings out the improvisation and creativity muscle!~
 Since the target audience of the icons are not defined, I held the assumption for the final choice of icon, that the icons should be immediately recognisable as if the viewer has had no prompting on what each icon should be. 
@@ -34,7 +34,7 @@ I used the "Alignment" tools to centralise my work, and also used "Transform" to
 
 Overall, this exercise was a fun and stimulating one that I thoroughly enjoyed 😆
 
-**Assignment 2 Brainstorming**
+# **Assignment 2 Brainstorming**
 
 In order to create as many possibilities as I could during this preliminary stage, I explored several concepts and created mindmaps for each of them. I have found this method of ideation useful for me in this exercise, as even if I am unable to think of multiple ideas on 1 concept, I can subconsciously improve an idea for a different concept, adding a "randomised" element to my brainstorming session.
 ![Overview brainstorm assignment 2](/w04s1/w04s1_A2_Brainstorming.jpg)
