@@ -4,7 +4,7 @@ published_at: 2024-04-18
 snippet: Pen Tool exercises + Assignment 2 progress
 disable_html_sanitization: true
 ---
-#**Pen Tool Class exercises**
+# **Pen Tool Class exercises**
 ![Bezier Game](/w05s1/w05s1_Bgame.png)
 *Bezier Game*
 - As someone who is used to Illustrator having done graphic design work before, I quite enjoyed the Bezier game, and it was a good refresher on shape creation by linework instead of compound shapes. Instead of focussing on complete accuracy, I enjoyed the challenge of trying to get myself to create the given shape in the least amount of nodes instead. Definitely was harder! Accuracy is lower and you needed to angle the curves carefully to not exceed the shape template. Overall I think I didn't do too bad... but my competitiveness would have liked to have another go if time permitted 🔥
@@ -17,7 +17,7 @@ disable_html_sanitization: true
 *Hopper Exercise*
 - I'll admit I was pretty ambitious in picking and committing to the full tracing of this Hopper painting, including the highlights and shadows. Had to scrutinise and carefully place my points so that they line up nicely. Really brought me back to the pain-staking days of creating art just by mouse linework, as every digital artist can attest to. I'm still glad I managed to complete it though!
 
-#**Assignment 2 Colour Scheme**
+# **Assignment 2 Colour Scheme**
 - Overall after discussing with my classmates on possible colour schemes, I decided perhaps an indigo would be an appropriate main colour to use. Indigo represents tranquility and also mystery, It is able to be deeply relaxing yet intriguingly unknown, which perfectly encapsulates the experience of dream travelling. I chose a more vibrant indigo, borrowing inspiration from the neon quality of sci-fi palettes. I also considered a secondary palette of blues and possibly an accent colour of orange/olive green.
 
 ![Gravity Colour](/w05s1/w05s1_01.png)
@@ -63,7 +63,7 @@ disable_html_sanitization: true
 *Preferred Colour Composition:*
 - Set 2 or 3: Nothing too crazy in terms of design, these 2 just look the most harmonious in terms of contrast and colour, while also having the gradient accent.
 
-#**Assignment 2 Additional Progress**
+# **Assignment 2 Additional Progress**
 ![Time Progress](/w05s1/w05s1_05.png)
 *Time Difference Calibration*
 - I've tried exploring the design for Time Difference some more, and I quite like 3e and 3d, with the dark part being the selected realm (dream/reality) that one is checking.
