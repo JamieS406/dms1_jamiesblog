@@ -29,7 +29,7 @@ disable_html_sanitization: true
 *Dark and Light Mode testing*
 - To assess which background would make the icons shine, I created separate colour palettes for light and dark mode for the whole iconography set. Turns out it looks much cooler in dark mode and also fits the theme of "dream" much more, so I shall be creating a dark background for my website.
 
-![Config](/process_a2/bw_colourp.png)
+![Config](/process_a2/config_1.png)
 *Configuration*
 - The configuration of icons affects balance, coherence and visual appeal. Thus, I took the extra step to plan out how I would configure the icons on the webpage in the stipulated 3x3 format. I decided on the bottom right, and as you can see I have drawn coloured lines to show the logic of the placement.
 1. Yellow Line: visually dense pointing up (gravity icon) to visually dense pointing down (layers icon). Thus complementary
