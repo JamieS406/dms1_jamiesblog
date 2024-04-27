@@ -37,6 +37,14 @@ disable_html_sanitization: true
 3. Red Line: Visually dense, very circular icons, similar shape. Therefore must be far apart, but balancing each other
 4. Blue line: Eye (Reality icon) is most centralised and visually heavy icon. To balance overall composition it must be placed in the centre. Is complemented by two visually lighter icons on either side.
 
+![Website bg](/process_a2/trying_bg.png)
+*Coding for background image*
+- I really wanted my background to be a dark star-lit sky, so I took pains to figure out how to put an image full-spread on website background. After many agonising attempts, I realised I needed a url not to an external website link to the image, but an internal link similar to how I have been linking all of my images on my blog here. 
+
+![Coding Issues](/process_a2/coding issues.png)
+*Coding Troubleshooting*
+- The coding section of the icon interaction was the part that I felt the most out of my depth. I was particularly stumped when it came to coding the interaction for more than 1 icon. After multiple checks and searching online I still didn't seem to get the answer. Turns out I just need to name the element differently for each interaction I input. a simple "twinkle_2_sound" instead of both interactions being named "twinkle_sound" was all it took. Good learning point, and I'm glad I'm better understanding how the computer reads code I create.
+
 **Sound Design Considerations**
 *Gravity sound Design*
 - Wanted it to have an audible weight/body to the sound with an almost suction-like quality. The force of gravity fundamentally affects the behavior of anything with mass, and I wanted that to be almost tangible through the sound design. I did not like the crunch and intense base of the original soundbite so I had to manipulate it to create the desired effect.
