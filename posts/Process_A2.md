@@ -47,11 +47,20 @@ disable_html_sanitization: true
 *Time Difference Calibration Sound Design*
 - Among all the time-based icons, I wanted this icon to sound the most like the quintessential clock-tick sound. However, I decided against getting a tick-tick sound that was too analog as it would deviate from the sci-fi digital sound. So I opted for a more muted, clean ticking sound, that also had some musicality and syncopation to add interest.
 
+*Material Fluidity Calibration Sound Design*
+- There was 2 ways of approaching this icons’ sound; either a very liquid-like sound, or a very heavy, gravelly sound. I originally tried a liquid-like warble, but after leaving it for a while and coming back to it, the sound unfortunately reminded me of a toilet flush, and I couldn’t unhear it. If I could have that association so could someone else, and that would be a rather unfortunate experience. So I instead opted for a weightier sound in motion, which I think translates the idea of material fluidity quite well with less room for misinterpretation.
+
 *Reality Failsafe Sound Design*
 - I wanted the sound to mimic the feeling of waking up, almost like an auditory opening of the eyes. Waking up has a slight feeling of falling as well: back into reality as reality opens back up to you, so the little “puff” sound that accompanied the bright opening sound really captured that feeling.
 
+*Risk Factor Sound Design*
+- I wanted it to sound urgent, yet not terrifying. It should evoke the idea of enabling the unknown and possibly unpredictable (ie. Risky), but also thematically tie in with the slightly sci-fi, dream-like sound qualities of the rest of the iconography set. 
+
 *Run Time Limit Sound Design*
 - I wanted it to sound like a clock alarm, without it sounding too much like either the Dream/Reality Time or Risk Factor icons. This sounded appropriately alarm-like while not being excessively alarming or too much like a clock. The muted, digital sound also helped to meld with the other icons as a set.
+
+*Share Dreamscape Sound Design*
+- Sharing dreams is almost like linking/locking two dreamscapes together, so I wanted the sound to be like a click of a lock/two puzzle pieces clicking together.
 
 *Change Dream Layer Sound Design*
 - Moving through different dream layers gives the impression of flying through to a different realm and settling in it. I wanted there to be a space-ship “lift-off” quality to the sound with a little resistance near the end to indicate the arrival to the next “dream layer”. 
