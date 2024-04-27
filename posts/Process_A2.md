@@ -37,3 +37,67 @@ disable_html_sanitization: true
 3. Red Line: Visually dense, very circular icons, similar shape. Therefore must be far apart, but balancing each other
 4. Blue line: Eye (Reality icon) is most centralised and visually heavy icon. To balance overall composition it must be placed in the centre. Is complemented by two visually lighter icons on either side.
 
+**Sound Design Considerations**
+*Gravity sound Design*
+- Wanted it to have an audible weight/body to the sound with an almost suction-like quality. The force of gravity fundamentally affects the behavior of anything with mass, and I wanted that to be almost tangible through the sound design. I did not like the crunch and intense base of the original soundbite so I had to manipulate it to create the desired effect.
+
+*Perspective Change Sound Design*
+- Changing perspectives is almost like teleporting to another “location” in the narrative, and I wanted to capture that feeling of body switching. This sound has a fantasy-like twinkle with a digital quality to it, which ties it back neatly with the sci-fi quality of the other icons.
+
+*Time Difference Calibration Sound Design*
+- Among all the time-based icons, I wanted this icon to sound the most like the quintessential clock-tick sound. However, I decided against getting a tick-tick sound that was too analog as it would deviate from the sci-fi digital sound. So I opted for a more muted, clean ticking sound, that also had some musicality and syncopation to add interest.
+
+*Reality Failsafe Sound Design*
+- I wanted the sound to mimic the feeling of waking up, almost like an auditory opening of the eyes. Waking up has a slight feeling of falling as well: back into reality as reality opens back up to you, so the little “puff” sound that accompanied the bright opening sound really captured that feeling.
+
+*Run Time Limit Sound Design*
+- I wanted it to sound like a clock alarm, without it sounding too much like either the Dream/Reality Time or Risk Factor icons. This sounded appropriately alarm-like while not being excessively alarming or too much like a clock. The muted, digital sound also helped to meld with the other icons as a set.
+
+*Change Dream Layer Sound Design*
+- Moving through different dream layers gives the impression of flying through to a different realm and settling in it. I wanted there to be a space-ship “lift-off” quality to the sound with a little resistance near the end to indicate the arrival to the next “dream layer”. 
+
+**Final Reflections**
+- This assignment was quite the enjoyable experience for me. I had a lot more creative freedom to design whatever I wished, using the fullest of my artistic sensibilities for the task,as compared to the caveats one must factor in for clients. A real dream to work on (pun fully intended). 
+- The main learning areas for me was in coding the website and sound design. 
+1. Coding: Coding is a mountain I am still trying hard to scale. I'm beginning to understand the mechanics of basic html, though I definitely feel I have a long, long way to go. Was very satisfying when I managed to make the interactions work after Thomas' guidance though!
+2. Sound: I've never really worked with sound in the heavily visual world of graphic design, but it certainly is a dimension that enhances the overall user experience, being cognisant that audiences process multiple senses at once, not just visuals. Trying my hand at sound design has made me more sensitive to things like volume, pitch, fade-ins/outs, anticipated timings, sound quality and the visceral emotions/reactions associated with certain sounds. I believe its allowing me to be a more thoughtful and effective designer, and I hope to keep improving on my design sensibilities in all its dimensions.
+
+
+# **Attribution List**
+
+“Suction 2”
+- 
+https://www.storyblocks.com/audio/search/suction-sound?media-type=sound-effects
+
+“ Chime Digital Twinkle”
+-
+https://www.storyblocks.com/audio/stock/chime-digital-twinkle-rlhqe6hn8whk0wxusz4.html
+
+“ Modern Ticking Loop 6”
+- 
+https://www.storyblocks.com/audio/stock/modern-ticking-loop-6-r-kzbouxkplk8p10ztx.html
+
+“Earthquake With Falling Rock”
+-
+https://www.storyblocks.com/audio/stock/earthquake-with-falling-rock-bgyejr6nupbk0wxxrxj.html
+
+“Mobile Screen Swish Slide Swap 4”
+-
+https://storyblocks.com/audio/stock/mobile-screen-swish-slide-swap-4-sfyql4girduk8umhdrw.html
+
+“Spaceship Danger Urgent Horn 7”
+-
+https://www.storyblocks.com/audio/stock/spaceship-danger-urgent-horn-7-sfatkf80v8k8umfxrl.html
+
+“Clock Alarm Beeping Sound 5”
+-
+https://www.storyblocks.com/audio/stock/clock-alarm-beeping-sound-5-bws7pjuqtdlk8p0y1o9.html
+
+“Minimal Button 4(Click, Tap, Touch)”
+-
+https://www.storyblocks.com/audio/stock/minimal-button-4-click-tap-touch-hk1zimf8rduk8umgxg9.html
+
+-
+https://www.storyblocks.com/audio/stock/fly-up-transitions-beogbhn3uwsk0wxs2q7.html
+
+
