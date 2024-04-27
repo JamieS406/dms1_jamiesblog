@@ -60,13 +60,13 @@ disable_html_sanitization: true
 - I wanted it to sound like a clock alarm, without it sounding too much like either the Dream/Reality Time or Risk Factor icons. This sounded appropriately alarm-like while not being excessively alarming or too much like a clock. The muted, digital sound also helped to meld with the other icons as a set.
 
 *Share Dreamscape Sound Design*
-- Sharing dreams is almost like linking/locking two dreamscapes together, so I wanted the sound to be like a click of a lock/two puzzle pieces clicking together.
+- Sharing dreams is almost like linking/locking two dreamscapes together, so I wanted the sound to be like the click of a lock/two puzzle pieces clicking together.
 
 *Change Dream Layer Sound Design*
 - Moving through different dream layers gives the impression of flying through to a different realm and settling in it. I wanted there to be a space-ship “lift-off” quality to the sound with a little resistance near the end to indicate the arrival to the next “dream layer”. 
 
 **Final Reflections**
-- This assignment was quite the enjoyable experience for me. I had a lot more creative freedom to design whatever I wished, using the fullest of my artistic sensibilities for the task,as compared to the caveats one must factor in for clients. A real dream to work on (pun fully intended). 
+- This assignment was quite the enjoyable experience for me. I had a lot more creative freedom to design whatever I wished, using the fullest of my artistic sensibilities for the task, as compared to the caveats one must factor in for clients. A real dream to work on (pun fully intended). 
 - The main learning areas for me was in coding the website and sound design. 
 1. Coding: Coding is a mountain I am still trying hard to scale. I'm beginning to understand the mechanics of basic html, though I definitely feel I have a long, long way to go. Was very satisfying when I managed to make the interactions work after Thomas' guidance though!
 2. Sound: I've never really worked with sound in the heavily visual world of graphic design, but it certainly is a dimension that enhances the overall user experience, being cognisant that audiences process multiple senses at once, not just visuals. Trying my hand at sound design has made me more sensitive to things like volume, pitch, fade-ins/outs, anticipated timings, sound quality and the visceral emotions/reactions associated with certain sounds. I believe its allowing me to be a more thoughtful and effective designer, and I hope to keep improving on my design sensibilities in all its dimensions.
