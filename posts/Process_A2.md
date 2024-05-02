@@ -1,5 +1,5 @@
 ---
-title: Process shots Assignment 2
+title: Process shots Assignment 2 (Week 6)
 published_at: 2024-04-26
 snippet: Assignment 2 progress
 disable_html_sanitization: true
