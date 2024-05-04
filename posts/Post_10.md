@@ -23,8 +23,9 @@ With this being the first time I have ever used Unity, this was a string of firs
 - Concept Name: Repotting. A short writeup:
 - Repotting is done to give a plant fresh nutrients and room for growth. This is the metaphor I am using to represent my design journey. From first being removed from the confines of my traditional academic structures, allowing me more room to deepen my foundations in design and gather new inspiration, to being literally uprooted from my home-country to expand my capabilities on foreign soil, my creative boundaries have been continually pushed beyond my comfort zones and my wildest imaginations. Though the winds of change may be daunting, this new environment might just help me stretch deeper into what I need as a designer, and reach for the stars. 
 
-![Assignment 3 Moodboard](/w07s1/w07s1_mbA3.png)
 **Moodboard and progress breakdown**
+![Assignment 3 Moodboard](/w07s1/w07s1_mbA3.png)
+
 - Here is the moodboard for my 3d space. It will be split into a 3-phase progression: the initial state, the transition state, and the final state. The images here are also layed out from left to right in that arrangment.
 1. **Initial State (stuck in the pot)** 
 *Feelings to achieve*: 
@@ -69,3 +70,7 @@ Wonder, freedom, wide-open expansive joy
 
 *To Make*
 * vista and balcony on the tree
+
+**Assignment 3 Layout Sketch Initial Idea**
+![Assignment 3 Layout Sketch](/w07s1/w07s1_layoutsk.png)
+- Here is a brief sketch of how I am visualising the cross-section of the 3D environment.
