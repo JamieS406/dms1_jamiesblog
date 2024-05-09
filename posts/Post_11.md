@@ -1,6 +1,6 @@
 ---
 title: Post 11 Week 7 Session 2
-published_at: 2024-05-09
+published_at: 2024-05-08
 snippet: Greybox prototyping and ideation
 disable_html_sanitization: true
 ---

@@ -16,7 +16,8 @@ disable_html_sanitization: true
 # **Assignment 3 Progress**
 **Layout idea update**
 ![layoutidea](/w08s1/w08s1_a3_layout.jpeg)
-- I'm starting to get a better idea of how I might want my structures to look, and after discussion with Thomas, I do think a maze could work quite well.
+- I'm starting to get a better idea of how I might want my structures to look, and after discussion with Thomas, I do think a maze could work quite well. Here are some ideas I am developing around the different "sections" of my environment.
+- Sidenote: Felt somewhat inspired by the image shown in class of the circular room and the gravitas it had, I think it could work well for the second layer of the maze.
 
 **Defining the Experience**
 - I have begun to try to define what the "player's" point of view (POV) is with regards to this entire metaphor. 
