@@ -73,5 +73,6 @@ Wonder, freedom, wide-open expansive joy
 * vista and balcony on the tree
 
 **Assignment 3 Layout Sketch Initial Idea**
+![Assignment 3 idea](/w07s1/w07s1_sketch.jpeg)
 ![Assignment 3 Layout Sketch](/w07s1/w07s1_layoutsk.jpeg)
-- Here is a brief sketch of how I am visualising the cross-section of the 3D environment.
+- Here is a brief sketch of how I am visualising the cross-section of the 3D environment, and some initial ideas.
