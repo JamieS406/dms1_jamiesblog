@@ -14,6 +14,10 @@ disable_html_sanitization: true
 
 
 # **Assignment 3 Progress**
+**Layout idea update**
+![layoutidea](/w08s1/w08s1_a3_layout.jpeg)
+- I'm starting to get a better idea of how I might want my structures to look, and after discussion with Thomas, I do think a maze could work quite well.
+
 **Defining the Experience**
 - I have begun to try to define what the "player's" point of view (POV) is with regards to this entire metaphor. 
 - The player's POV is the various stages of a plant's growth journey. 
