@@ -15,6 +15,11 @@ disable_html_sanitization: true
 *Material Manipulation*
 - The texture I imported for the pot, a brownish concrete, was too matte to look realistic when I first applied it to the maze model. I played around with the "smoothness" and "metallic" settings in the material options until I was able to get this slightly glazed, textured tile. I really like the effect it gives, it's a lot more visually interesting and realistic!
 
-![potmaterial](/w09s1/w9s1_.png)
-![potmaterial](/w09s1/w9s1_.png)
-*Material Manipulation*
+![terrainbonzai](/w09s1/w9s1_terrainbonzai.png)
+*Terrain and light*
+- For the inside of the maze, I wanted to create a more creepy, slightly cold environment. The first room is the "bonzai", the representation of stunted creative growth. I decided to give the bonzai pedestal an eerie, bluish spotlight which helped bring focus to the bonzai centrepiece in the middle of the room, and give the area a nice blue tint.
+
+![reflection](/w09s1/w9s1_reflection.png)
+*Skybox and Lighting*
+- The environmental lighting kept affecting the inner walls of the maze, making the walls a warm sunset yellow. It completely ruined the claustrophobic ambience I was trying to create. After some quick research online, there were suggestions to 1. change the exposure of the skybox or 2. add a reflection probe to the indoor elements. I took quite a while manipulating the skybox features first but realised it ended up affecting the look of all the elements in the entire scene. Afterwards, I tried the 2nd method. This created a lovely shadow on the whole area! I applied the reflection probe to 2 strategic parts of the maze, and I think it's a good balance of visibility for the player and darkness for the environment design.
+
