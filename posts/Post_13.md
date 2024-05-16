@@ -24,6 +24,6 @@ disable_html_sanitization: true
 *Maze plan*
 - I mapped out a route for the maze, created in Illustrator and imported onto Unity. I figured this would work best compared to blindly building up the maze with no plan. It also helped greatly in making sure the maze remained circular as i built imported broken pot tiles piece-by-piece into the maze shape. 
 
-![Maze space](/w08s2/w08s2_mazespacing.png)
+![Maze space](/w08s2/w8s2_mazespacing.png)
 *Maze plan - spacing*
 - The maze floorplan helped a lot in gauging the width required for the maze, and visualising the walk-through experience prior to building everything up.
