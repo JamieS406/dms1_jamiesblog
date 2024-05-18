@@ -23,7 +23,7 @@ disable_html_sanitization: true
 - I even positioned the ambient music of this final state towards the sunrise, so that the players are prompted to look in that direction.
 
 **Classmate Feedback + Improvements**
-In class, we play-tested each others' game environment, and I had the privilege of getting several of my classmates to go through mine. They were excellent help... especially when they endeavoured to find as many loophooles in my environment as possible (and fully exploit what it afforded them) 😂. 
+- In class, we play-tested each others' game environment, and I had the privilege of getting several of my classmates to go through mine. They were excellent help... especially when they endeavoured to find as many loophooles in my environment as possible (and fully exploit what it afforded them) 😂. 
 
 ![Breaktree](/process_a3/pa3_breaktree.png)
 *The Climbing Tree loophole*
