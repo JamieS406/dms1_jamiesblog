@@ -24,7 +24,7 @@ disable_html_sanitization: true
 -
 
 **Assignment 1 - Video Edit**
-• *How did you approach the relationship between the sonic and visual components of your edit?*
+- *How did you approach the relationship between the sonic and visual components of your edit?*
 I first planned out the overview of my film’s storyline and flow, then identified the main emotions within key sections. I also earmarked specific scenes that would need additional sound effects to enhance the emotion/concept I wanted to convey. This helped to give me a general framework to work with to look for soundtracks and sound effects. I took pains to transition the visual components in tandem to the soundtrack’s tempo and ensure as much synchresis as possible, down to syncing the sound effects to the soundtrack as well.
 
 • *How did you decide on the footage that you used to shape your project?*
@@ -43,7 +43,7 @@ As the overarching story, I chose to depict my move to Melbourne from my home co
 I used a montage-like, tabeleau style which was able to capture ‘still’ videos, snapshots of moments in time that I noticed like memories. In a wabi-sabi fashion, I captured life as-is, finding the beauty and wonder in imperfection. This gave a sentimental, genuine feeling, as if the viewer is going through an album of my memories with me and reliving the journey. I also heavily utilized patterns, match cuts and symbolism, therefore the way in which my scenes were compiled was meticulous and very intentional. These methods are simple to execute yet powerful in storytelling, which allowed me to use the limitation on effects and transitions fully to my advantage.
 
 **Assignment 2 - Graphic Icons**
-• *How would you summarise your idea behind the suite of icons, and why did you choose the theme that you did?*
+- *How would you summarise your idea behind the suite of icons, and why did you choose the theme that you did?*
 For Assignment 2, I decided on the topic "Dream". It imagines a world where dream-travel and manipulation has been made possible, much like the movie "Inception". The icons created are to navigate and manipulate the dreamscape effectively, with safeguards around the dream perimeters if the traveler so requires.
 I chose this particular direction because it is novel enough a set of functions for me to create icons that have not been created before, thus giving me sufficient creative freedom. However, it is also limited enough a scope as my icons are limited to functions to use within a dreamscape, therefore giving me proper boundaries for exploration that I would not be overwhelmed by what I would have to create to have a “complete” set of functions. This is a problem I could run into if I were to, say, create a new game and then realise I need more than 9 icons to make everything make sense.
 
@@ -66,7 +66,7 @@ I created my very first thumbnail sketches on illustrator already, so no, nothin
 I attached the concept of “Dream” to a movie with scenes and existing lore, which helped guide me in my design choices as I was able to inform myself through additional research different ways of the types of icons I could create and the type of world the dreamscape was.
 
 **Assignment 3 - Virtual Environment**
-• *How important was a working prototype to your design process? What did it offer that process?*
+- *How important was a working prototype to your design process? What did it offer that process?*
 To be honest I created prototypes quickly and did not end up with a “perfect” draft before I started on the actual models. However, the prototyping process in grey-boxxing was imperative. I was able to quickly realise a straight, narrow corridor, which was what I had previously planned for, did not adequately deliver my creative intention of claustrophobia and confusion. This prompted me to try circular, more winding routes, lower ceiling lines and walls that were not just narrow but angled too.
 
 • *How did your experience of designing and producing a three-dimensional environment differ from your experience of designing and producing a project in two-dimensional media?*
