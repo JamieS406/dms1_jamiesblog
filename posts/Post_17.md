@@ -1,5 +1,5 @@
 ---
-title: Post 16 Week 11 Session 1
+title: Post 17 Week 11 Session 1
 published_at: 2024-06-01
 snippet: Class Exercise website planning + Assignment 3 Progress
 disable_html_sanitization: true
