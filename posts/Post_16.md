@@ -1,6 +1,6 @@
 ---
 title: Post 16 Week 10 Session 2
-published_at: 2024-06-01
+published_at: 2024-05-30
 snippet: Class Assignment + Assignment 3 Progress
 disable_html_sanitization: true
 ---
