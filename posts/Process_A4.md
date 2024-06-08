@@ -71,7 +71,7 @@ __________
 - To my surprise my neon green words against the dark green had sufficient contrast! It was only a matter of not putting the neon text as thin/normal text, and instead only in bold text.
 
 ![pa4_gwordb4_](/process_a4/pa4_gwordb4_.jpg)
-![gwordraft](/process_a4/gwordraft.jpg)
+![gwordaft](/process_a4/pa4_gwordaft.jpg)
 - Just some quick adjustments to the original text and we're all set!
 _______
 
