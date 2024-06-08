@@ -9,11 +9,11 @@ disable_html_sanitization: true
 ![w11s2_gridwebsite2](/w11s2/w11s2_gridwebsite2.png)
 *Grids*
 - We tried our hand at grids, and explored how websites used grids to create a system throughout their site.
-- Pinterest was realatively easy to fit neatly into grids, but I really struggled with Youtube for some reason. The elements just didn't seem to want to sit in any position, not conforming to the rules it creates for itself. Perhaps I'm using the wrong column thickness, or the wrong gutter width? I don't know, but this was the best I could do. 
+- Pinterest was relatively easy to fit neatly into grids, but I really struggled with Youtube for some reason. The elements just didn't seem to want to sit in any position, not conforming to the rules it creates for itself. Perhaps I'm using the wrong column thickness, or the wrong gutter width? I don't know, but this was the best I could do. 
 
 # **Assignment 4 Progress**
 ![w11s2_figmadumb](/w11s2/w11s2_figmadumb.png)
-![w11s2_menu sidebuttonno](/w11s2/w11s2_menu sidebuttonno.jpg)
+![w11s2_menu sidebuttonno](/w11s2/w11s2_menusidebuttonno.jpg)
 *Menu bar troubleshooting*
 - In my previous design, I wanted to incorporate a little icon on the left top corner of the fixed menu bar, but the Figma user interface kept getting in the way of my menu bar. You can see here I accomodated for the menu UI by shifting my menu downwards... but it creates this awkward gap that you can see in the second image. 
 - To try to solve this, I've attempted a thicker menu bar.
