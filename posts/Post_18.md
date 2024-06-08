@@ -13,6 +13,7 @@ disable_html_sanitization: true
 __________
 
 # **Assignment 4 Progress**
+**Layout Progress**
 ![w11s2_figmadumb](/w11s2/w11s2_figmadumb.png)
 ![w11s2_menu sidebuttonno](/w11s2/w11s2_menusidebuttonno.jpg)
 - *Menu bar troubleshooting*
@@ -20,16 +21,26 @@ __________
 - To try to solve this, I've attempted a thicker menu bar.
 __________
 
-![w11s2_extension](/w11s2/w11s2_extension.png)
-- *Extending visual identity*
-- In trying to extend the visual identity created in the front of my website, I attempted pulling out the letter-shapes and making them headers for the project numbers. 
-__________
-
 ![w11s2_grids](/w11s2/w11s2_grids.jpg)
 - *Imposing Grids*
 - I've chosen a 24-column grid system, 2 times the standard amount,just so I can have a little more flexibility in where I'm able to park my elements within the space given.
 __________
+![w11s2_b4gridno](/w11s2/w11s2_b4gridno.png)
+![w11s2_revlayouta1](/w11s2/w11s2_revlayouta1.jpg)
+- *Re-doing my layouts*
+- I attempted to lay my images out in the grid format I had originally set out for, but it REALLY didn't look good. Everything looked crowded, tiny, and overwhelming. If the images were like this, what more when I have to put in my explanations?
+- So I went back to the drawing board, and I'm envisioning something that showcass mainly the images in the form of gifs when clicked, trying my utmost to reduce the number of words shown in 1 block at any point in time.
+__________
+![w11s2_slideshow1](/w11s2/w11s2_slideshow1.jpg)
+- I also tried to take advantage of the single-scroll format instead of letting it be an obstacle, by spacing out sections, putting less elements in a visual space at any one point, and breadcrumbing the viewer with guiding arrows so that the experience is a lot more enjoyable and engaging.
+- I learnt to prototype the menu bar to scroll back up to the top and bounce gently instead of abruptly jumping, for a smoother user experience.
+__________
 
+**Visual Identity Progress**
+![w11s2_extension](/w11s2/w11s2_extension.png)
+- *Extending visual identity*
+- In trying to extend the visual identity created in the front of my website, I attempted pulling out the letter-shapes and making them headers for the project numbers. 
+__________
 ![w11s2_rev1](/w11s2/w11s2_rev1.png)
 ![w11s2_greenelement](/w11s2/w11s2_greenelement.jpg)
 - *Playing with letter-shape treatment*
@@ -40,15 +51,6 @@ __________
 - *Gradient stylistic addition*
 - I'm attempting a subtle gradient on the background to add dimension to the otehrwise flat background design, for visual interest.
 - I've also translated that, to varying levels of success, in my images and borders. Will keep playing with it.
-__________
-![w11s2_b4gridno](/w11s2/w11s2_b4gridno.png)
-![w11s2_revlayouta1](/w11s2/w11s2_revlayouta1.jpg)
-- *Re-doing my layouts*
-- I attempted to lay my images out in the grid format I had originally set out for, but it REALLY didn't look good. Everything looked crowded, tiny, and overwhelming. If the images were like this, what more when I have to put in my explanations?
-- So I went back to the drawing board and attempted something that showcased mainly the images in the form of gifs when clicked, and tried my utmost to reduce the number of words shown in 1 block at any point in time.
-__________
-![w11s2_slideshow1](/w11s2/w11s2_slideshow1.jpg)
-- I also tried to take advantage of the single-scroll format instead of letting it be an obstacle, by spacing out sections, putting less elements in a visual space at any one point, and breadcrumbing the viewer with guiding arrows so that the experience is a lot more enjoyable and engaging.
 __________
 ![w11s2_staridentity](/w11s2/w11s2_staridentity.jpg)
 - *Star visual element as part of identity*
