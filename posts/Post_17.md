@@ -1,16 +1,16 @@
 ---
 title: Post 17 Week 11 Session 1
 published_at: 2024-05-31
-snippet: Class Exercise website planning + Assignment 3 Progress
+snippet: Class Exercise website planning + Assignment 4 Progress
 disable_html_sanitization: true
 ---
-# **Class Exercise Website Planning**
+# **Class Exercise: Website Planning**
 ![w11s1_classex](/w11s1/w11s1_classex.png)
 *Recreate a website*
 - This exercise really put my observation of website details to shame unfortunately 🥲
 - We were to recreate a website that we use often without referring to it at all: just from memory. I thought was simple enough, but it turns out it has a lot of bells and whistles I completely overlooked, such as the "storys" function and even the search bar. The exercise really made me try to pay attention to the website details more. Website UI is meant to make the navigation experience intuitive and engaging, so hopefully I can learn from the choice of functions displayed on my frequently-used websites.
 
-# **Assignment 3 Progress**
+# **Assignment 4 Progress**
 ![w11s1_1](/w11s1/w11s1_1.png)
 ![w11s1_layouts](/w11s1/w11s1_layouts.png)
 *Wireframing*

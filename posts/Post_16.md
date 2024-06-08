@@ -1,7 +1,7 @@
 ---
 title: Post 16 Week 10 Session 2
 published_at: 2024-05-30
-snippet: Class Assignment + Assignment 3 Progress
+snippet: Class Assignment + Assignment 4 Progress
 disable_html_sanitization: true
 ---
 # **Class Exercise: Figma**
@@ -21,7 +21,7 @@ disable_html_sanitization: true
 *Hyperlinks*
 - Another useful thing learnt: hyperlinks can be prototyped into text and images under the prototype components sections. Will have to remember that for linking my final products!
  
-# **Assignment 3 Progress - Section Planning**
+# **Assignment 4 Progress - Section Planning**
 
 **Assignment 1 - Video Edit**
 *The Idea*
