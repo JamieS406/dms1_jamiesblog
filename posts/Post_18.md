@@ -46,6 +46,7 @@ __________
 - *Re-doing my layouts*
 - I attempted to lay my images out in the grid format I had originally set out for, but it REALLY didn't look good. Everything looked crowded, tiny, and overwhelming. If the images were like this, what more when I have to put in my explanations?
 - So I went back to the drawing board and attempted something that showcased mainly the images in the form of gifs when clicked, and tried my utmost to reduce the number of words shown in 1 block at any point in time.
+__________
 ![w11s2_slideshow1](/w11s2/w11s2_slideshow1.jpg)
 - I also tried to take advantage of the single-scroll format instead of letting it be an obstacle, by spacing out sections, putting less elements in a visual space at any one point, and breadcrumbing the viewer with guiding arrows so that the experience is a lot more enjoyable and engaging.
 __________
