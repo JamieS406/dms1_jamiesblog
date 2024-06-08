@@ -1,6 +1,6 @@
 ---
 title: Post 18 Week 11 Session 2
-published_at: 2124-05-31
+published_at: 2024-05-31
 snippet: Class Exercise website planning + Assignment 4 Progress
 disable_html_sanitization: true
 ---
