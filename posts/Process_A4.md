@@ -12,7 +12,7 @@ disable_html_sanitization: true
 __________
 ![pa4_gifs](/process_a4/pa4_gifs.png)
 - *A gif to mankind*
-- Gifs were a serious godsend for showcasing all of the images I had in my process repository. I was able to hide away an entire series of process images and sketches into one space, while also creating visual interest in moving images! (I would argue this is applying the principle of "voluntary attention", learnt from video editing class). 
+- Gifs were a serious godsend for showcasing all of the images I had in my process repository. I was able to hide away an entire series of process images and sketches into one space, while also creating visual interest in moving images! (I would argue this is applying the principle of "voluntary attention", learnt from the video editing section of this class). 
 - I was also able to create moving vectors to sprinkle throughout my website to give more interest to the page. I intentionally placed gifs near areas viewers had to click or engage with, a form of breadcrumbing to "clickbait" them into what I want them to look at.
 __________
 ![pa4_pthoughts](/process_a4/pa4_pthoughts.jpg)
