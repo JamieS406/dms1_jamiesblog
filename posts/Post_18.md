@@ -22,16 +22,16 @@ disable_html_sanitization: true
 - *Extending visual identity*
 - In trying to extend the visual identity created in the front of my website, I attempted pulling out the letter-shapes and making them headers for the project numbers. 
 
-![w11s2_grids](/w11s2/w11s2_grids.png)
+![w11s2_grids](/w11s2/w11s2_grids.jpg)
 - *Imposing Grids*
 - I've chosen a 24-column grid system, 2 times the standard amount,just so I can have a little more flexibility in where I'm able to park my elements within the space given.
 
 ![w11s2_rev1](/w11s2/w11s2_rev1.png)
-![w11s2_greenelement](/w11s2/w11s2_greenelement.png)
+![w11s2_greenelement](/w11s2/w11s2_greenelement.jpg)
 - *Playing with letter-shape treatment*
 - I've also experiemented with having a negative of the letter-shape form I've created, while having the solid shape as a supporting colour element. So far, I'm really liking the effect because I can see how I can translate this into a stylistic signature for the rest of the website.
 
-![w11s2_rev0](/w01s2/w11s2_rev0.png)
+![w11s2_rev0](/w11s2/w11s2_rev0.png)
 ![w11s2_layout1](/w11s2/w11s2_layout1.jpg)
 - *Gradient stylistic addition*
 - I'm attempting a subtle gradient on the background to add dimension to the otehrwise flat background design, for visual interest.
